@@ -17,6 +17,7 @@ public class App
         System.out.println(total.Multiply(2.5, 2));
         System.out.println(total.Divide(24.2,2));
 
+
     }
 
 }
